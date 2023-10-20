@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "824210789257",
+    "project_id": "hopelift-c82d5",
+    "storage_bucket": "hopelift-c82d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824210789257:android:fd6bb68a182bc276fb4758",
+        "android_client_info": {
+          "package_name": "com.example.test_quiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824210789257-43ggitujkborjjetofeo4p3ruepuuevn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhfJ1NVT1aqTkwBvDhsDzidKZDgT02Ibc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "824210789257-43ggitujkborjjetofeo4p3ruepuuevn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+
+  "configuration_version": "1"
+
+}
+
